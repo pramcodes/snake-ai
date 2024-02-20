@@ -1,5 +1,20 @@
-# snake-ai
-2023 wits COMS II snake project
-You can watch my snake comepete on https://snake.wits.ai/watch, currently my snake is in the 6th league out of 48 (10/11/23)
+# Snake AI - COMS II Snake Project (2023)
 
-The coding project was modified a number of times as I continuously updated my strategy to see which one performed better, I was reluctant to get delete code since I sometimes used old fuctions in a new strategy implementation hence the project code in MyAgent.java looks disorganised.
+Welcome to the Snake AI repository! This project is part of the 2023 Wits COMS II Snake Project, where you can watch my snake compete on [Watch my snake](https://snake.wits.ai/watch). As of the last update on 10/11/23, my snake is currently in the 6th league out of 48.
+
+## Overview
+
+This coding project has undergone multiple modifications as I continuously refined my strategy to improve my snake's performance. Sometimes, I reused old functions in new strategy implementations, leading to a mix of different approaches.
+
+## Project Evolution
+
+The project evolved over time as I experimented with various strategies. Each modification aimed at enhancing the snake's decision-making and overall gameplay. While the code may seem disorganized in `MyAgent.java`, it reflects the iterative nature of the development process.
+
+## Repository Structure
+
+- `MyAgent.java`: The main source file containing the snake's logic and decision-making processes.
+- `...` (other relevant files and directories)
+
+## Acknowledgements
+
+I would like to express my gratitude to the Wits COMS II Snake Project organizers and participants for creating an engaging and competitive environment.
